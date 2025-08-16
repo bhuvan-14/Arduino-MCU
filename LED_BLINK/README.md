@@ -24,9 +24,13 @@ Both LEDs turn OFF for 2 seconds, and the cycle repeats.
 **🔄 Sequence Timing
 
 Step	LED1	LED2	Delay
+
 1   	ON	  OFF	  2s
+
 2	    OFF	  ON	  2s
+
 3	    ON	  ON	  2s
+
 4	    OFF	  OFF	  2s**
 
 **📎 Notes**
