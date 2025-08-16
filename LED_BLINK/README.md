@@ -1,4 +1,5 @@
 **📌 Overview**
+
 This project demonstrates a simple LED blinking sequence using an Arduino board. Two LEDs are connected to pins 9 and 6, and they are turned ON and OFF in a timed pattern.
 
 **🛠 Components Required**
